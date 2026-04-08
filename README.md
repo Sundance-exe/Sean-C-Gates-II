@@ -23,6 +23,16 @@ My goal:
 
 Consistency > Motivation.
 
+## 🚧 Featured Projects
+
+Currently building:
+
+- 🔐 Secure Authentication API (FastAPI + JWT)
+- 🧠 Python Foundations Projects (CLI tools, security scripts)
+- 🛡️ Identity & Access Systems (Planned)
+
+More coming as I build in public.
+
 ## 🌐 Connect
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOURUSERNAME)
